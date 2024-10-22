@@ -1,4 +1,4 @@
-# Using ChatGPT to get a Xiaomi to speak 
+# Using ChatGPT to get a Xiaomi Cyberdog 1.0 to speak 
 
 1. record whatever questions you want the dog to say using record_questions.py 
 - this requires an OpenAI API key in a config.py file
